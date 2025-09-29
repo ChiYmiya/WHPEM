@@ -1,5 +1,5 @@
 # WHPEM
-# 📦 项目名称
+# 📦 一个Markdown=>思维导图的用户工具
 
 ## 1. 项目背景与目标
 - **背景**：本项目旨在通过 GitHub Pages + Serverless/第三方后端，开发一个低成本的 Web 应用。  
