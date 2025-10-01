@@ -13,6 +13,7 @@
 - 静态页面展示
 - 表单输入与交互
 - 调用后端 API
+### 实时的Markdown编写
 
 ### 后端
 - 数据存储：{如 Firebase / Supabase / Airtable}
